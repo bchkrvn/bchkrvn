@@ -4,11 +4,12 @@
 <h3 align="left">My skills:</h3>
 <h3 align="left"><ul>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25"> Python</li>
-    <li>Flask</li>
-    <li>Git</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="25"> Flask</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25">Git</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="25"> DB (SQLite)</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="25"> SQLAlchemy</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" width="25"> Unit tests (PyTests)</li>
     <li>OOP</li>
-    <li>Unit tests</li>
-    <li>DB (SQLite)</li>
 </ul></h3>
 
 <div id="badges">
