@@ -3,7 +3,7 @@
 <h3 align="center">I'm intern python developer</h3>
 <h4 align="left">My skills:</h4>
 <h4 align="left"><ul>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="Spring" width="40" height="40"/> Python</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30"> Python</li>
     <li>Flask</li>
     <li>Git</li>
     <li>OOP</li>
