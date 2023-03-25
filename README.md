@@ -10,3 +10,9 @@
     <li>Unit tests</li>
     <li>DB (SQLite)</li>
 </ul></h4>
+
+<div id="badges">
+  <h4 align='left'>Contact with me<a href="https://t.me/bchkrvn">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      </a></h4>
+</div>
