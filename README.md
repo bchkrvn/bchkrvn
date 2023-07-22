@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nikita</a> 
+<h1 align="center">Hi there, I'm <a href="http://t.me/asderuss" target="_blank">Nikita</a> 
 <h2 align="center">I'm junior python developer</h2>
 <h3 align="left">My skills:</h3>
 <h3 align="left"><ul>
@@ -15,7 +15,7 @@
 
 <div id="badges">
   <h3 align='left'>Contact with me:</h3>
-    <a href="https://t.me/bchkrvn">
+    <a href="https://t.me/asderuss">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
       </a>
 </div>
