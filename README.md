@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="http://t.me/asderuss" target="_blank">Nikita</a> 
-<h2 align="center">I'm junior python developer</h2>
+<h2 align="center">I'm python developer</h2>
 <h3 align="left">My skills:</h3>
 <h3 align="left"><ul>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25"> Python</li>
